@@ -88,4 +88,4 @@ The project consists of two main parts:
 UI Demo
 -------
 ![Alt text](image.png)
-![Alt text](image-1.png)# GO-Users
+![Alt text](image-1.png)
